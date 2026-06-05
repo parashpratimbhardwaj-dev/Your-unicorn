@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Your Unicorn Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="Your Unicorn Banner" src="" />
 </div>
 
 # Your Unicorn
